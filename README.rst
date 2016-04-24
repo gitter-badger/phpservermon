@@ -1,6 +1,10 @@
 PHP Server Monitor
 ==================
 
+.. image:: https://badges.gitter.im/sadortun/phpservermon.svg
+   :alt: Join the chat at https://gitter.im/sadortun/phpservermon
+   :target: https://gitter.im/sadortun/phpservermon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Version 3.1.0-dev
 
 PHP Server Monitor is a script that checks whether your websites and servers are up and running.
